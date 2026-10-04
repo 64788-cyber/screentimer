@@ -87,9 +87,14 @@
         <code>[lien](https://…)</code> <code>&gt; citation</code> <code>---</code>
       </p>
 
+      <label for="f_token">Jeton GitHub (pour « Publier pour tous »)</label>
+      <input id="f_token" type="password" placeholder="github_pat_…" autocomplete="off">
+      <div id="publishMsg" class="lockMsg"></div>
+
       <a id="padLink" target="_blank" style="display:none;">FAQ partagée : modifier sur Framapad</a>
       <div class="btnrow">
         <button id="applyBtn">Appliquer</button>
+        <button id="publishBtn" title="Enregistre la config dans le dépôt pour tous les écrans">Publier pour tous</button>
         <button id="shareBtn">Générer le lien</button>
         <button id="downloadBtn" title="À committer dans le dépôt pour partager à tous">Télécharger config.json</button>
         <button id="resetBtn" title="Revenir à la config du dépôt">Réinitialiser</button>
