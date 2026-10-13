@@ -4,7 +4,7 @@
   "start": "19:00",
   "end": "19:30",
   "leave": "16:44",
-  "consignes": "## Matériel\n- Calculatrice **interdite**\n- Portables *éteints*\n- eleve interdit\n",
+  "consignes": "## Matériel\n- Calculatrice **interdite**\n- Portables *éteints*\n\n",
   "faq": "Puis-je sortir avant l'heure ? = Non, sauf urgence\nÀ qui poser une question ? = Levez la main\nDans quel question y'a t'il un piège ? = Aucune\nfais l'exercice ? = non",
   "pad": ""
 }
